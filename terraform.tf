@@ -10,7 +10,7 @@ terraform {
       name = "learn-terraform"
     }
   }
-*/
+ */
   required_providers {
     aws = {
       source  = "hashicorp/aws"
@@ -19,4 +19,4 @@ terraform {
   }
 
   required_version = "~> 1.2"
-https://github.com/MasterTut/learn-terraform.git}
+}
